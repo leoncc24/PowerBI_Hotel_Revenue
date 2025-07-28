@@ -24,7 +24,7 @@ Power BI dashboard analyzing **3 months of hotel booking performance** across mu
    - `Transform Data` → `Data Source Settings`
 4. Refresh data (`Home` → `Refresh`)
 
-## 📈 Key Metrics Calculated
+##  Key Metrics Calculated
 
 | Metric | Formula | Description |
 |--------|---------|-------------|
